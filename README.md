@@ -4,6 +4,6 @@
 
 ## Index
 
-| Semester   | Professor   | Author                           |
+| Semester   | Professor   | Student                          |
 | ---------- | ----------- | -------------------------------- |
 | ’19 Spring | Haknam Choi | [Seungjae Park](./psj/README.md) |
